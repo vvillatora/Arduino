@@ -13,8 +13,12 @@ Stepper	KEYWORD1
 #######################################
 
 step	KEYWORD2
+set_step	KEYWORD2
+loop	KEYWORD2
 setSpeed	KEYWORD2
 version	KEYWORD2
+steps_to_run	KEYWORD2
+position	KEYWORD2
 
 ######################################
 # Instances (KEYWORD2)
